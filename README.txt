@@ -9,3 +9,4 @@ and they are not to be distributed. Sources:
 - https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
 - https://assetstore.unity.com/packages/3d/vehicles/space/star-sparrow-modular-spaceship-73167
 - https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-volume-2-nebula-3392
+- Synty Poly Proto Track Assets
